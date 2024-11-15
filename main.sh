@@ -1,5 +1,5 @@
 #!/bin/bash
-# Testing
+
 export DIALOGRC="./config/dialogrc"
 LOG_FILE="./logs/maintenance.log"
 
